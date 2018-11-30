@@ -1,0 +1,4 @@
+c:\users\slhscs006\documents\visual studio 2015\Projects\PlantsDatabase\PlantsDatabase\bin\Debug\PlantsDatabase.exe.config
+c:\users\slhscs006\documents\visual studio 2015\Projects\PlantsDatabase\PlantsDatabase\obj\Debug\PlantsDatabase.csprojResolveAssemblyReference.cache
+c:\users\slhscs006\documents\visual studio 2015\Projects\PlantsDatabase\PlantsDatabase\obj\Debug\PlantsDatabase.Form1.resources
+c:\users\slhscs006\documents\visual studio 2015\Projects\PlantsDatabase\PlantsDatabase\obj\Debug\PlantsDatabase.csproj.GenerateResource.Cache
